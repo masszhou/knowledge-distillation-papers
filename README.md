@@ -69,4 +69,5 @@ I will keep updating this project frequently.<br>
 
 ## Special Topics
 
-Coming...
+# My Selected Articles (masszhou)
+* H. Li, "Exploring knowledge distillation of Deep neural nets for efficient hardware solutions," [github](https://github.com/peterliht/knowledge-distillation-pytorch), [CS230 Report](http://cs230.stanford.edu/files_winter_2018/projects/6940224.pdf), 2018
